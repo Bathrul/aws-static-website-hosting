@@ -42,5 +42,4 @@ The website is successfully delivered worldwide using Amazon CloudFront with imp
 - Logging and monitoring
 
 ## 👤 Author
-Your Name  
 GitHub: https://github.com/Bathrul
